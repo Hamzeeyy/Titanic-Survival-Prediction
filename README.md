@@ -1,6 +1,5 @@
 # Titanic Survival Prediction
 
-![Titanic](titanic.jpg)
 
 ## Overview
 
@@ -8,7 +7,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
 
 ## Dataset
 
-The dataset used for this project is the famous Titanic dataset, which contains information about passengers such as their age, gender, class, and whether they survived or not. The dataset can be found [here](https://www.kaggle.com/c/titanic/data) or file name tested.csv in a repositry.
+The dataset used for this project is the famous Titanic dataset, which contains information about passengers such as their age, gender, class, and whether they survived or not. The dataset can be found [here](https://www.kaggle.com/c/titanic/data) or file name tested.csv in a repository.
 
 ## Methodology
 
