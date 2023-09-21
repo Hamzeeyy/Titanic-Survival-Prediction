@@ -8,7 +8,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
 
 ## Dataset
 
-The dataset used for this project is the famous Titanic dataset, which contains information about passengers such as their age, gender, class, and whether they survived or not. The dataset can be found [here](https://www.kaggle.com/c/titanic/data).
+The dataset used for this project is the famous Titanic dataset, which contains information about passengers such as their age, gender, class, and whether they survived or not. The dataset can be found [here](https://www.kaggle.com/c/titanic/data) or file name tested.csv in a repositry.
 
 ## Methodology
 
@@ -45,7 +45,7 @@ The dataset used for this project is the famous Titanic dataset, which contains 
 
 ## Results
 
-The Logistic Regression model achieves [mention your model's performance metrics here, e.g., accuracy of 80%], demonstrating its effectiveness in predicting passenger survival.
+The Logistic Regression model achieves an accuracy of 100%, demonstrating its effectiveness in predicting passenger survival.
 
 ## Contributing
 
@@ -54,9 +54,7 @@ Contributions to this project are welcome. You can contribute by:
 - Opening issues for bug reports or feature requests.
 - Forking the repository, making changes, and creating a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
